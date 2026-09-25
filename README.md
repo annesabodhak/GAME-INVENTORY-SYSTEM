@@ -1,5 +1,5 @@
-Overview: It is a very basic user friendly game inventory system, where you can add inventory, search for an inventory, can search for the quantity, remove inventory and also can see total quantities along and name wise category and quantity. 
 # 🎮 Python Inventory System
+Overview: It is a very basic user friendly game inventory system, where you can add inventory, search for an inventory, can search for the quantity, remove inventory and also can see total quantities along and name wise category and quantity. 
 
 A simple **Python inventory management system** designed around a game character's inventory.
 
